@@ -1,0 +1,8 @@
+vi filename -> open
+
+i -> insert mode
+esc-> exit insert mode
+
+:wq -> save and quit
+
+:q! -> quit without saving
