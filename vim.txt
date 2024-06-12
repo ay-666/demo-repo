@@ -6,3 +6,5 @@ esc-> exit insert mode
 :wq -> save and quit
 
 :q! -> quit without saving
+
+touch filename ->to create file
